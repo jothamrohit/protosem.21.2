@@ -1,0 +1,2 @@
+demo_pkg:obs_service:robotoai_edu/dyno_description:robotoai_edu/dyno_gazebo:robotoai_edu/dyno_teleop
+-DCATKIN_DEVEL_PREFIX=/home/sakthi/robotics_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sakthi/robotics_ws/install -G Unix Makefiles

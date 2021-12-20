@@ -1,0 +1,8 @@
+prefix=/home/sakthi/robotics_ws/install
+
+Name: dyno_description
+Description: Description of dyno_description
+Version: 1.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro

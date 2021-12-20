@@ -1,0 +1,7 @@
+set(dyno_teleop_SETUP_PY_SETUP_MODULE "distutils.core")
+set(dyno_teleop_SETUP_PY_VERSION "1.0.1")
+set(dyno_teleop_SETUP_PY_SCRIPTS "")
+set(dyno_teleop_SETUP_PY_PACKAGES "dyno_teleop")
+set(dyno_teleop_SETUP_PY_PACKAGE_DIRS "src/dyno_teleop")
+set(dyno_teleop_SETUP_PY_MODULES "")
+set(dyno_teleop_SETUP_PY_MODULE_DIRS "")
